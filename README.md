@@ -1,16 +1,48 @@
-## Hi there 👋
+## 🛠️ TECHNOLOGY STACK
 
-<!--
-**raihankabir1952/raihankabir1952** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Languages
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="45" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" />
+  <img src="https://skillicons.dev/icons?i=python" height="45" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" />
+  <img src="https://skillicons.dev/icons?i=php" height="45" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="45" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="45" />
+</p>
+
+### ⚙️ Backend & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="45" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="45" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="45" />
+  <img src="https://skillicons.dev/icons?i=cs" height="45" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql" height="45" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" />
+  <img src="https://skillicons.dev/icons?i=oracle" height="45" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,firebase" height="45" />
+</p>
