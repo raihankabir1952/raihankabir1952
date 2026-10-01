@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="./Gemini_Generated_Image_3501eo3501eo3501.jpg"
+    alt="Raihan Kabir - Full Stack Developer"
+    width="100%"
+  />
+</p>
+
 # Hi 👋, I'm Raihan
 
 I'm a Full Stack Developer.
