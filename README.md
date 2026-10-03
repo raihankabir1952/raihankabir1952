@@ -15,12 +15,6 @@ I'm a Full Stack Developer focused on building modern, responsive, and scalable 
 
 I work mainly with React, Next.js, TypeScript, Node.js, NestJS, and PostgreSQL. I enjoy building real-world applications and learning new technologies to improve my development skills.
 
-## 🚀 Current Activities
-
-- 🔭 Currently working on **CodeSphere**, a full-stack developer community platform.
-- 🌱 Currently learning and improving my skills in **Next.js, NestJS, Prisma, PostgreSQL, and WebSockets**.
-- 💻 Building real-world full-stack applications to strengthen my development skills.
-
 ## 🔗 Connect With Me
 
 <p>
@@ -34,6 +28,12 @@ I work mainly with React, Next.js, TypeScript, Node.js, NestJS, and PostgreSQL. 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+## 🚀 Current Activities
+
+- 🔭 Currently working on **CodeSphere**, a full-stack developer community platform.
+- 🌱 Currently learning and improving my skills in **Next.js, NestJS, Prisma, PostgreSQL, and WebSockets**.
+- 💻 Building real-world full-stack applications to strengthen my development skills.
 
 ## 🛠️ TECHNOLOGY STACK
 
