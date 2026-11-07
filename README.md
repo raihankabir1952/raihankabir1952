@@ -18,6 +18,9 @@ I work mainly with React, Next.js, TypeScript, Node.js, NestJS, and PostgreSQL. 
 ## 🔗 Connect With Me
 
 <p>
+  <a href="https://raihan-s-portfolio-seven.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-0A7BFF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://github.com/raihankabir1952">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
